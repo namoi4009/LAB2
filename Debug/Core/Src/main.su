@@ -1,0 +1,12 @@
+main.c:80:5:main	8	static
+main.c:140:6:SystemClock_Config	88	static
+main.c:268:13:MX_GPIO_Init	56	static
+main.c:322:6:system_init	8	static
+main.c:337:6:FlashLedDebug	8	static
+main.c:344:6:FlashLedY0	8	static
+main.c:353:6:FlashLedY1	8	static
+main.c:362:6:Traffic	8	static
+main.c:376:6:test_7seg	8	static
+main.c:389:6:realTime	8	static
+main.c:419:6:shiftNum	16	static
+main.c:436:6:Error_Handler	4	static,ignoring_inline_asm
